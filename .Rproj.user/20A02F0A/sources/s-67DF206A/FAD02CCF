@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588818041607.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3407427109",
+    "id" : "FAD02CCF",
+    "lastKnownWriteTime" : 1588818072,
+    "last_content_update" : 1588818072187,
+    "path" : "E:/CU 2020 Spring Courses/Data Science/A_local_Res/local.R",
+    "project_path" : "local.R",
+    "properties" : {
+        "cursorPosition" : "0,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
